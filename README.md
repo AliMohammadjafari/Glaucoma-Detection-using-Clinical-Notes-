@@ -3,13 +3,13 @@ This project aims to classify glaucoma presence based on patient clinical notes 
 
 # Key Features
 
-  # 1. Data Preparation and Preprocessing:
+  1. Data Preparation and Preprocessing:
      The dataset contains clinical notes along with relevant patient details, such as age, gender, ethnicity, and language. These features are used to provide context for the glaucoma classification model.
-  # 2. Deep Learning Model:
+  2. Deep Learning Model:
      Utilizes both LSTM and CNN-based models to learn from textual data, achieving effective feature extraction and improving prediction accuracy.
-  # 3. Handling Class Imbalance:
+  3. Handling Class Imbalance:
      Techniques such as class weighting and L1/L2 regularization were employed to address the class imbalance in the dataset and prevent overfitting.
-  # 4. Performance Evaluation:
+  4. Performance Evaluation:
      Validation metrics include accuracy, AUC-ROC curves, and loss trends. Strategies such as dropout, batch normalization, and learning rate scheduling were used to achieve better generalization.
 
 # Technologies Used
