@@ -1,4 +1,4 @@
-# Glaucoma-Detection-using-Clinical-Notes-
+# Glaucoma-Detection-using-Clinical-Notes
 This project aims to classify glaucoma presence based on patient clinical notes using machine learning and deep learning techniques. By leveraging natural language processing (NLP) on electronic health record (EHR) data, this project strives to develop a robust model that can aid healthcare professionals in early detection of glaucoma, which is crucial for timely intervention and treatment.
 
 # Key Features
